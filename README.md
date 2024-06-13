@@ -1,2 +1,2 @@
 # cpp
-repo for my studying project on cpp lang
+I changing this file to understan how to work my upload to git script
